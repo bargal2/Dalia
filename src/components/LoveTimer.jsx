@@ -168,7 +168,7 @@ const BestiesTimer = () => {
         {/* النص السفلي للكارت */}
         <div className="text-xs sm:text-sm font-semibold text-pink-100 flex items-center gap-1.5 text-center">
           <span>💖</span>
-          <span>مستنيين يوم عيد ميلادك بفارغ الصبر يا أجمل يدودي!</span>
+          <span>مستنيين يوم عيد ميلادك بفارغ الصبر يا أجمل دودي!</span>
         </div>
       </motion.div>
 

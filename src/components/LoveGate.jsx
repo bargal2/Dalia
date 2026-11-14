@@ -7,7 +7,7 @@ const BestieGate = ({ onUnlock }) => {
     const correctPassword = "812"; // كلمة المرور
 
     // حساب عدد الأيام منذ بداية الصداقة (05 مايو 2026)
-    const startDate = new Date('812');
+    const startDate = new Date('2024-07-02');
     const today = new Date();
     const diffTime = Math.abs(today - startDate);
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));

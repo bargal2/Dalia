@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const BestieGate = ({ onUnlock }) => {
     const [password, setPassword] = useState('');
     const [error, setError] = useState(false);
-    const correctPassword = "1"; // كلمة المرور
+    const correctPassword = "812"; // كلمة المرور
 
     // حساب عدد الأيام منذ بداية الصداقة (05 مايو 2026)
     const startDate = new Date('812');
